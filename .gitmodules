@@ -40,3 +40,6 @@
 [submodule "iptables"]
 	path = iptables
 	url = git@github.com:rcoscali/iptables.git
+[submodule "arptables"]
+	path = arptables
+	url = git@github.com:rcoscali/arptables.git
