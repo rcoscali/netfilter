@@ -16,3 +16,6 @@
 [submodule "libnetfilter_cttimeout"]
 	path = libnetfilter_cttimeout
 	url = git@github.com:rcoscali/libnetfilter_cttimeout.git
+[submodule "libnetfilter_cthelper"]
+	path = libnetfilter_cthelper
+	url = git@github.com:rcoscali/libnetfilter_cthelper.git
