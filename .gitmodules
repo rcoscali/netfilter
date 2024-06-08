@@ -43,3 +43,6 @@
 [submodule "arptables"]
 	path = arptables
 	url = git@github.com:rcoscali/arptables.git
+[submodule "ulogd2"]
+	path = ulogd2
+	url = git@github.com:rcoscali/ulogd2.git
