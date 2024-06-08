@@ -4,3 +4,6 @@
 [submodule "libmnl"]
 	path = libmnl
 	url = git@github.com:rcoscali/libmnl.git
+[submodule "libnfnetlink"]
+	path = libnfnetlink
+	url = git@github.com:rcoscali/libnfnetlink.git
