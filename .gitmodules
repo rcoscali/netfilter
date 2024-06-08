@@ -1,3 +1,6 @@
 [submodule "libnetfilter_acct"]
 	path = libnetfilter_acct
 	url = git@github.com:rcoscali/libnetfilter_acct.git
+[submodule "libmnl"]
+	path = libmnl
+	url = git@github.com:rcoscali/libmnl.git
