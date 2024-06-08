@@ -28,3 +28,6 @@
 [submodule "libnftnl"]
 	path = libnftnl
 	url = git@github.com:rcoscali/libnftnl.git
+[submodule "nftables"]
+	path = nftables
+	url = git@github.com:rcoscali/nftables.git
