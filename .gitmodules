@@ -37,3 +37,6 @@
 [submodule "conntrack-tools"]
 	path = conntrack-tools
 	url = git@github.com:rcoscali/conntrack-tools.git
+[submodule "iptables"]
+	path = iptables
+	url = git@github.com:rcoscali/iptables.git
