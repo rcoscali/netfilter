@@ -31,3 +31,6 @@
 [submodule "nftables"]
 	path = nftables
 	url = git@github.com:rcoscali/nftables.git
+[submodule "ipset"]
+	path = ipset
+	url = git@github.com:rcoscali/ipset.git
