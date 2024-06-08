@@ -34,3 +34,6 @@
 [submodule "ipset"]
 	path = ipset
 	url = git@github.com:rcoscali/ipset.git
+[submodule "conntrack-tools"]
+	path = conntrack-tools
+	url = git@github.com:rcoscali/conntrack-tools.git
