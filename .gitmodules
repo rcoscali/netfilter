@@ -7,3 +7,6 @@
 [submodule "libnfnetlink"]
 	path = libnfnetlink
 	url = git@github.com:rcoscali/libnfnetlink.git
+[submodule "nfacct"]
+	path = nfacct
+	url = git@github.com:rcoscali/nfacct.git
