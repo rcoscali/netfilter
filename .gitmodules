@@ -19,3 +19,6 @@
 [submodule "libnetfilter_cthelper"]
 	path = libnetfilter_cthelper
 	url = git@github.com:rcoscali/libnetfilter_cthelper.git
+[submodule "libnetfilter_queue"]
+	path = libnetfilter_queue
+	url = git@github.com:rcoscali/libnetfilter_queue.git
