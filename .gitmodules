@@ -10,3 +10,6 @@
 [submodule "nfacct"]
 	path = nfacct
 	url = git@github.com:rcoscali/nfacct.git
+[submodule "libnetfilter_conntrack"]
+	path = libnetfilter_conntrack
+	url = git@github.com:rcoscali/libnetfilter_conntrack.git
