@@ -25,3 +25,6 @@
 [submodule "libnetfilter_log"]
 	path = libnetfilter_log
 	url = git@github.com:rcoscali/libnetfilter_log.git
+[submodule "libnftnl"]
+	path = libnftnl
+	url = git@github.com:rcoscali/libnftnl.git
