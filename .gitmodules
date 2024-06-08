@@ -49,3 +49,6 @@
 [submodule "ulogd"]
 	path = ulogd
 	url = git@github.com:rcoscali/ulogd.git
+[submodule "ebtables"]
+	path = ebtables
+	url = git@github.com:rcoscali/ebtables.git
